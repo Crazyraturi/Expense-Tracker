@@ -7,8 +7,12 @@ jhon is a command-line-based AI finance assistant built with Node.js and Groq's 
 💬 What is my current balance?
 💬 Can I buy a car for 50,000?
 
+# Screenshot
+![expense tracker](https://github.com/user-attachments/assets/a76bb997-a3f2-4881-9b86-5ba435f6d737)
 
-Vidushi uses Groq's tool calling to run real-time functions like adding expenses, calculating balances, and checking affordability — all powered by LLMs.
+
+
+jhon uses Groq's tool calling to run real-time functions like adding expenses, calculating balances, and checking affordability — all powered by LLMs.
 
 ---
 
@@ -35,7 +39,7 @@ Vidushi uses Groq's tool calling to run real-time functions like adding expenses
 
 ### 1. Clone the repo
 
-```bash
+
 git clone https://github.com/crazyraturi/expense-tracker.git
 cd expense-tracker
 
@@ -83,18 +87,11 @@ Assistant: Your current balance is ₹10000 — you’re short of ₹5000. Consi
 
     Voice command support
 
-📁 File Structure
-
-📦 vidushi-finance-assistant
-├── financeAssistant.js   # Main assistant logic
-├── .env                  # API key for Groq
-├── package.json
-└── README.md
 
 📄 License
 
 MIT
 🙌 Credits
 
-Built by Your Name using Groq + Node.js
+Built by subodh raturi using Groq + Node.js
 Inspired by real-world personal finance struggles 💸
